@@ -19,7 +19,7 @@
     "@react-native-firebase/crashlytics": "^6.0.3",
     "@react-native-firebase/perf": "^6.0.3",
     "axios": "^0.21.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "native-base": "^2.13.8",
     "react": "16.8.6",
     "react-native": "0.60.5",
